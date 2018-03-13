@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello,TESTING!</h1>
+        <h1>TESTING!</h1>
     </body>
 </html>
